@@ -1,6 +1,6 @@
 # whatsapp-code-lag
-author : BL4NK
-thanks to : Daffa_Arif , Jackpot 0day exploit
+author : Sahrul Gunawan 
+thanks to : Anonymous Cyber Joker
 
 instalasi :
 
