@@ -1,12 +1,12 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 #Unicode cuk
-#autor BL4NK
+#autor Sahrul Gunawan Cyber
 
 echo " ----------------------------------------" | lolcat
-echo " | # Author   : BL4NK      	      |" | lolcat
-echo " | # Coded    : Daffa_Arif               |" | lolcat
-echo " | # Github   : https://github.com/BL4NK5|" | lolcat
+echo " | # Author   : Sahrul Gunawan Cyber     |" | lolcat
+echo " | # Coded    : Anonymous Cyber Joker    |" | lolcat
+echo " | # WhatsApp : +6281229707853           |" | lolcat
 echo " ----------------------------------------" | lolcat
 
 DOC=$(cat <<DOCUMENT
