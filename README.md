@@ -26,7 +26,7 @@ chmod +X * CODE-BY-SAHRULGUNAWAN-CYBER
 
 Tinggal masukan perintah
 
-./CODE-BY-SAHRULGUNAWAN-CYBER
+sh CODE-BY-SAHRULGUNAWAN-CYBER.sh
 
 lalu Pastekan ke Keyboard WhatsApp
 Korban Dijamin Lag
